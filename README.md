@@ -1,4 +1,4 @@
-# rbtree-set
+# RBTree Set
 
 Uma aplicação desenvolvida para a disciplina de ED2 da UFES que realiza operações matemáticas com conjuntos utilizando uma RBTree genérica em C 
 
@@ -13,6 +13,8 @@ Linux
 ## Autores
 
 Mateus Almeida
+
 Felipe Tolentino
+
 Wewérthon Cardoso
 
